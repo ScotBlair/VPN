@@ -20,6 +20,8 @@ This tutorial outlines the simple process of using a VPN to conceal our IP addre
 <br />![IP address 3 - VPN](https://github.com/user-attachments/assets/e71c0487-6fc9-47d6-9c44-9cd886e8140b)<br />
 <br />![IP address 4 - VPN](https://github.com/user-attachments/assets/7c4c0898-ffc4-4756-9881-099b7cdd318f)<br />
 
-- I then navigate over to google and am immediately hit with a wall of text, all of it in French.
+- I then navigate over to google and am immediately hit with a wall of text, all of it in either French or Dutch, as both of these languages are used in this particualr region.
 <br />![IP address 5 - VPN](https://github.com/user-attachments/assets/808e6c7b-ce9d-4921-8b6f-bdfdd7b91199)<br />
 
+- I type "news" into the search bar, and the results pop up all in Dutch (according to google translate).
+<br />![IP address 6 - VPN](https://github.com/user-attachments/assets/cb00cf1c-edb3-4bc8-9590-3a497bf0f864)<br />
